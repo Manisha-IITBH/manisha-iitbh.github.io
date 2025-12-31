@@ -24,11 +24,11 @@ repository               : "Manisha-IITBH/Manisha-IITBH.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Manisha"
-  pronouns         : # example: "she/her"  
+  name             : "Manisha Chawla"
+  pronouns         : "she/her"  
   bio              : "Lecturer • Researcher • Federated & Split Learning • Trustworthy AI"
   location         : "Chhattisgarh, India"
-  employer         : "Government Girls Polytechnic Bilaspur"
+  employer         : "Indian Institute of Technology Bhilai"
   uri              : # URL
   email            : "manishachawla@iitbhilai.ac.in" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0005-8512-9587"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : " "
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -273,10 +273,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _Reasearch Projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
