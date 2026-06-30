@@ -22,7 +22,7 @@ This work proposes a communication-efficient Split Learning framework for resour
 
 ## Resources
 
-- **DOI:** https://doi.org/10.1109/JIOT.2024.3424660
+- **DOI:** [Link](https://doi.org/10.1109/JIOT.2024.3424660)
 - **PDF:** [Download Paper](/files/Beyond_Federated_Learning_for_IoT_Efficient_Split_Learning_With_Caching_and_Model_Customization.pdf)
 - **Code:** [https://github.com/Manisha-IITBH/FedSL-IoT](https://github.com/S3-Lab-IIT/Efficient-Split-Learning.git)
 - **Slides:** [Presentation](/files/ManishaChawla_Wholesome_Thesis_Presentation_2024.pdf)
