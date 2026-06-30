@@ -26,16 +26,16 @@ author:
   avatar           : "profile.png"
   name             : "Manisha Chawla"
   pronouns         : "she/her"  
-  bio              : "Lecturer at GGP Bilaspur. M.Tech in Computer Science Engineering from Indian Institute of Technology Bhilai 2024."
+  bio              : "M.Tech in Computer Science Engineering from Indian Institute of Technology Bhilai."
   location         : "India"
-  employer         : "Indian Institute of Technology Bhilai"
+  employer         : "GGP Bilaspur. "
   uri              : # URL
   email            : "manishachawla@iitbhilai.ac.in" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=B1ON2lcAAAAJ&hl=en&authuser=4"
+  googlescholar    : "https://scholar.google.com/citations?user=WayEs34AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-8512-9587"
