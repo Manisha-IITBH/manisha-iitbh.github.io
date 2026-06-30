@@ -6,7 +6,7 @@ permalink: /publication/beyond-federated-learning-for-iot
 excerpt: "Efficient split learning with caching and model customization for resource-constrained IoT environments."
 date: 2024-07-05
 venue: "IEEE Internet of Things Journal"
-doi: "https://doi.org/10.1109/JIOT.2024.3424660"
+paperurl: "https://doi.org/10.1109/JIOT.2024.3424660"
 pdfurl: "/files/Beyond_Federated_Learning_for_IoT_Efficient_Split_Learning_With_Caching_and_Model_Customization.pdf"
 slidesurl: "/files/ManishaChawla_Wholesome_Thesis_Presentation_2024.pdf"
 bibtexurl: "/files/fedsl.bib"
