@@ -22,8 +22,8 @@ Work experience
   * Government Girls Polytechnic, Bilaspur, Chhattisgarh* 
   * October 2016 – Present
 * Teaching Assistant | M.Tech Researcher
-  *Indian Institute of Technology (IIT) Bhilai*
-  *2022 – 2024**
+  *Indian Institute of Technology (IIT) Bhilai
+  *2022 – 2024
 
 Publications
 ======
