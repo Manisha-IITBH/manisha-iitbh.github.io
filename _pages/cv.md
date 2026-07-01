@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in CSE, Indian Institute of Technology (IIT) Bhilai, 2028 (expected)
+* M.Tech in CSE, Indian Institute of Technology (IIT) Bhilai, 2024
+* B.S. in CSE, Government Engineering College Bilaspur, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Lecturer (Computer Science & Engineering)
+  * Department of Skill Development & Technical Education, Government of Chhattisgarh
+  * Government Girls Polytechnic, Bilaspur, Chhattisgarh* 
+  * October 2016 – Present
+* Teaching Assistant | M.Tech Researcher
+  *Indian Institute of Technology (IIT) Bhilai*
+  *2022 – 2024**
 
 Publications
 ======
@@ -59,6 +43,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards & Honors
 ======
-* Currently signed in to 43 different slack teams
+* Senate Award for Academic Excellence, Indian Institute of Technology Bhilai (2024)
+* M.Tech in Computer Science and Engineering with CGPA 10.0/10.0
+* University Rank 3, B.E. Computer Science & Engineering
+* State Rank 11, Higher Secondary Examination (Chhattisgarh)
