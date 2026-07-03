@@ -10,9 +10,9 @@ location: "Bilaspur, Chhattisgarh, India"
 ## Teaching Responsibilities
 During the **January–June 2026** semester, I taught the following diploma courses in the Department of Computer Science and Engineering.
 ### Courses
-- **Cloud Computing**
-- **Computer Network**
-- **Computer Architecture and Maintenance**
+- Cloud Computing
+- Computer Network
+- Computer Architecture and Maintenance
 ## Teaching Activities
 - Delivered theory lectures and laboratory sessions.
 - Designed assignments, quizzes and practical exercises..
