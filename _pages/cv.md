@@ -46,7 +46,7 @@ Teaching
   
 Awards & Honors
 ======
+* Bank of Baroda Award for Academic Excellence, Indian Institute of Technology Bhilai (2025)
 * Senate Award for Academic Excellence, Indian Institute of Technology Bhilai (2024)
-* M.Tech in Computer Science and Engineering with CGPA 10.0/10.0
-* University Rank 3, B.E. Computer Science & Engineering
-* State Rank 11, Higher Secondary Examination (Chhattisgarh)
+* University Rank 3, Bachelor of Engineering in CSE, CSVTU Bhilai (2014)
+* State Rank 11, Higher Secondary Examination (CGBSE 2010)
