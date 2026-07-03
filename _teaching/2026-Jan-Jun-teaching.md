@@ -7,7 +7,7 @@ venue: "CSE Department, Government Girls Polytechnic, Bilaspur"
 date: 2026-01-01
 location: "Bilaspur, Chhattisgarh, India"
 ---
-## Teaching Responsibilities
+Teaching Responsibilities
 During the **January–June 2026** semester, I taught the following diploma courses in the Department of Computer Science and Engineering.
 ## Courses
 - Cloud Computing
