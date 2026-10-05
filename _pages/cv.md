@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[Open CV (PDF)]({{ base_path }}/files/cv.pdf){:target="_blank" rel="noopener"}
 
 Education
 ======
