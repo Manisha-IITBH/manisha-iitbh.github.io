@@ -2,7 +2,7 @@
 title: "Jul-Dec 2026"
 collection: teaching
 type: "Diploma"
-permalink: /teaching/jan-jun-2026
+permalink: /teaching/jun-dec-2026
 venue: "CSE Department, Government Polytechnic, Marwahi"
 date: 2026-01-01
 location: "Marwahi, Chhattisgarh, India"
