@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Open CV (PDF)]({{ base_path }}/files/cv.pdf){:target="_blank" rel="noopener"}
+[Open CV (PDF)]({{ base_path }}/files/ManishaChawla.pdf){:target="_blank" rel="noopener"}
 
 Education
 ======
