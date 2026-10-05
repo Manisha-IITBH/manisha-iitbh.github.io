@@ -1,5 +1,5 @@
 ---
-title: "January–June 2026"
+title: "Jan–June 2026"
 collection: teaching
 type: "Diploma"
 permalink: /teaching/jan-jun-2026
