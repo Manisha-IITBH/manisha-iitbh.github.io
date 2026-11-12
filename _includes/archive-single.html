@@ -99,6 +99,11 @@
           {% assign sep = " | " %}
         {% endif %}
 
+        {% if post.videourl %}
+          {{ sep }}<a href="{{ post.videourl }}">Video</a>
+          {% assign sep = " | " %}
+        {% endif %}
+
         {% if post.codeurl %}
           {{ sep }}<a href="{{ post.codeurl }}">Code</a>
           {% assign sep = " | " %}
@@ -127,6 +132,11 @@
 
         {% if post.slidesurl %}
           {{ sep }}<a href="{{ post.slidesurl }}">Slides</a>
+          {% assign sep = " | " %}
+        {% endif %}
+
+        {% if post.videourl %}
+          {{ sep }}<a href="{{ post.videourl }}">Video</a>
           {% assign sep = " | " %}
         {% endif %}
 

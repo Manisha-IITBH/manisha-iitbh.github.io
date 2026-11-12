@@ -13,6 +13,7 @@ citation: >-
   "Fair and Accurate Skin Disease Image Classification by Alignment with Clinical Labels,"
   <i>Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)</i>,
   Springer, pp. 394–404, 2024.
+videourl: "https://www.youtube.com/watch?v=0toYDfHcca0"
 codeurl: "https://github.com/aayushmanace/PatchAlign24"
 bibtexurl: "/files/patchalign.bib"
 ---
@@ -29,6 +30,7 @@ To further address noise and artifacts in clinical dermatology images, the frame
 
 - **DOI:** [View Publication](https://doi.org/10.1007/978-3-031-72378-0_37)
 - **PDF:** [Download Paper](/files/PatchAlignFair_and_Accurate_Skin_Disease_Image_Cla.pdf)
+- **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=0toYDfHcca0)
 - **Code:** [GitHub Repository](https://github.com/aayushmanace/PatchAlign24)
 - **BibTeX:** [Download BibTeX](/files/patchalign.bib)
 
