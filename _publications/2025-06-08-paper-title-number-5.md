@@ -25,6 +25,7 @@ This work introduces an entropy-aware training strategy for distributed Graph Ne
 - 📄 **DOI:** [Link](https://doi.org/10.1109/ICDM58522.2023.00112)
 - 📥 **PDF:** [Download Paper](/files/Entropy_Aware_Training_for_Fast_and_Accurate_Distributed_GNN.pdf)
 - 💻 **Code:** [https://github.com/Manisha-IITBH/EntropyAwareGNN](https://github.com/Manisha-IITBH/EAT-DistGNN.git)
+- **Slides:** [Presentation](/files/ICDM_presentation_EATGNN.pdf)
 - 📚 **BibTeX:** [Download](/files/icdm2023.bib)
 
 ## Abstract
