@@ -8,6 +8,7 @@ date: 2024-02-05
 venue: "IEEE International Conference on Data Mining (ICDM 2023)"
 paperurl: "https://doi.org/10.1109/ICDM58522.2023.00112"
 pdfurl: "/files/Entropy_Aware_Training_for_Fast_and_Accurate_Distributed_GNN.pdf"
+videourl: "https://www.youtube.com/watch?v=pxV9tvYoRzU"
 codeurl: "https://github.com/Manisha-IITBH/EAT-DistGNN.git"
 bibtexurl: "/files/icdm2023.bib"
 citation: >-
@@ -30,6 +31,7 @@ Implemented on the DistDGL framework, the proposed techniques achieve faster con
 
 - **DOI:** [View Publication](https://doi.org/10.1109/ICDM58522.2023.00112)
 - **PDF:** [Download Paper](/files/Entropy_Aware_Training_for_Fast_and_Accurate_Distributed_GNN.pdf)
+- **Video:** [Watch on YouTube](https://www.youtube.com/watch?v=pxV9tvYoRzU)
 - **Code:** [GitHub Repository](https://github.com/Manisha-IITBH/EAT-DistGNN.git)
 - **Slides:** [View Presentation](/files/ICDM_presentation_EATGNN.pdf)
 - **BibTeX:** [Download BibTeX](/files/icdm2023.bib)
