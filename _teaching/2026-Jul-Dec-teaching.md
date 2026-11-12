@@ -11,7 +11,7 @@ location: "Marwahi, Chhattisgarh, India"
 
 ## Courses
 - Operating System (CSE)
-- Programmimg In 'C' (CSE)
+- Programming In 'C' (CSE)
 - Fundamental of Computer and Information Technology (CSE)
 
 ## Departmental Responsibilities

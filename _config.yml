@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Manisha Chawla / M.Tech"
 title_separator          : "-"
 name                     : &name "Manisha Chawla"
-description              : &description "Lecturer at GGP Bilaspur. M.Tech in Computer Science Engineering from Indian Institute of Technology Bhilai 2024."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Lecturer at GGP Bilaspur. M.Tech in Computer Science and Engineering from Indian Institute of Technology Bhilai 2024."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://manisha-iitbh.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Manisha Chawla"
   pronouns         : "she/her"  
-  bio              : "M.Tech in Computer Science Engineering from Indian Institute of Technology Bhilai."
+  bio              : "M.Tech in Computer Science and Engineering from Indian Institute of Technology Bhilai."
   location         : "India"
-  employer         : "GGP Bilaspur. "
+  employer         : "GGP Bilaspur"
   uri              : # URL
   email            : "manishachawla@iitbhilai.ac.in" 
 
