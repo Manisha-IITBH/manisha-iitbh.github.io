@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Manisha Chawla / M.Tech"
+title                    : "Manisha Chawla"
 title_separator          : "-"
 name                     : &name "Manisha Chawla"
 description              : &description "Lecturer at GGP Bilaspur. M.Tech in Computer Science and Engineering from Indian Institute of Technology Bhilai 2024."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Manisha Chawla"
   pronouns         : "she/her"  
-  bio              : "M.Tech in Computer Science and Engineering from Indian Institute of Technology Bhilai."
+  bio              : 
   location         : "India"
   employer         : "GGP Bilaspur"
   uri              : # URL
