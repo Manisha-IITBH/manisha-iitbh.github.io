@@ -99,6 +99,11 @@
           {% assign sep = " | " %}
         {% endif %}
 
+        {% if post.codeurl %}
+          {{ sep }}<a href="{{ post.codeurl }}">Code</a>
+          {% assign sep = " | " %}
+        {% endif %}
+
         {% if post.bibtexurl %}
           {{ sep }}<a href="{{ post.bibtexurl }}">BibTeX</a>
         {% endif %}
@@ -122,6 +127,11 @@
 
         {% if post.slidesurl %}
           {{ sep }}<a href="{{ post.slidesurl }}">Slides</a>
+          {% assign sep = " | " %}
+        {% endif %}
+
+        {% if post.codeurl %}
+          {{ sep }}<a href="{{ post.codeurl }}">Code</a>
           {% assign sep = " | " %}
         {% endif %}
 

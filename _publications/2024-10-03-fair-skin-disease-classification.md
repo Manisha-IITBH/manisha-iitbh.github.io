@@ -13,6 +13,8 @@ citation: >-
   "Fair and Accurate Skin Disease Image Classification by Alignment with Clinical Labels,"
   <i>Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)</i>,
   Springer, pp. 394–404, 2024.
+codeurl: "https://github.com/aayushmanace/PatchAlign24"
+bibtexurl: "/files/patchalign.bib"
 ---
 
 ## Overview

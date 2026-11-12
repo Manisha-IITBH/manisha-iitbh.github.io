@@ -15,6 +15,7 @@ citation: >-
   "Beyond Federated Learning for IoT: Efficient Split Learning With Caching and Model Customization,"
   <i>IEEE Internet of Things Journal</i>, vol. 11, no. 20,
   pp. 32617–32630, Oct. 15, 2024.
+codeurl: "https://github.com/S3-Lab-IIT/Efficient-Split-Learning"
 ---
 
 ## Overview

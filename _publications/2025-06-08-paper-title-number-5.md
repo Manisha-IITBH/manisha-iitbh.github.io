@@ -15,6 +15,7 @@ citation: >-
   "Entropy Aware Training for Fast and Accurate Distributed GNN,"
   <i>Proceedings of the IEEE International Conference on Data Mining (ICDM)</i>,
   Shanghai, China, pp. 986–991, 2023.
+slidesurl: "/files/ICDM_presentation_EATGNN.pdf"
 ---
 
 ## Overview
