@@ -52,3 +52,12 @@ Awards & Honors
 * Senate Award for Academic Excellence, Indian Institute of Technology Bhilai (2024)
 * University Rank 3, Bachelor of Engineering in CSE, CSVTU Bhilai (2014)
 * State Rank 11, Higher Secondary Examination (CGBSE 2010)
+
+Reviewer
+======
+* IEEE Sensors Journal
+* IEEE Internet of Things Journal
+* IEEE Access
+* IEEE Transactions on Artificial Intelligence
+* IEEE Transactions on Intelligent Vehicles
+* IEEE Journal of Biomedical and Health Informatics
