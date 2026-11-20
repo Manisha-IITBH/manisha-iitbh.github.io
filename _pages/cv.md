@@ -61,3 +61,4 @@ Reviewer
 * IEEE Transactions on Artificial Intelligence
 * IEEE Transactions on Intelligent Vehicles
 * IEEE Journal of Biomedical and Health Informatics
+* Connection Science (Taylor & Francis)

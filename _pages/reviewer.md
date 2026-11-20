@@ -14,3 +14,6 @@ I serve as a peer reviewer for the following international journals:
 * IEEE Transactions on Artificial Intelligence
 * IEEE Transactions on Intelligent Vehicles
 * IEEE Journal of Biomedical and Health Informatics
+
+### Other Journals
+* Connection Science (Taylor & Francis)
